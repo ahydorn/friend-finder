@@ -1,26 +1,26 @@
-const friendsList = require('../data/friends');
+var friendsList = require("../data/friends");
 
 module.exports = function(app) {
-    app.get('api/friends', function(req, res) {
+    app.get("api/friends", function(req, res) {
         res.json(friendsList);
-    });
+    })
 
-    // Create a new friend
-    app.post('/api/friends', function(req, res) {
-        const newFriend = req.body;
-        const newScore = 0;
-        const total = 0;
-        const match = {
-            '',
-            photo: '',
-            difference: 100
-        };
+    // Create New Characters - takes in JSON input
+    app.post("/api/friends", function(req, res) {
+        var newFriend = req.body;
+        var newScore = 0;
+        var total = 0;
+        var match = {
+            name: "",
+            photo: "",
+            difference: 10000
+        }
 
-        // Calculator
-        for (let i = 0; i < friendsList.length; i++) {
+        // Calculating totals 
+        for (var i = 0; i < friendsList.length; i++) {
             total = 0;
 
-            for (let j = 0; j < friendsList[i].preferences.length; j++) {
+            for (var j = 0; j < friendsList[i].preferences.length; j++) {
                 total += Math.abs(friendsList[i].preferences[j] - newFriend.preferences[j]);
 
                 if (total <= match.difference) {
@@ -34,4 +34,4 @@ module.exports = function(app) {
         res.json(match);
         console.log(match);
     });
-};
+}
