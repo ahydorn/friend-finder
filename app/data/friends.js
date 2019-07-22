@@ -6,13 +6,13 @@ var friendsList = [{
 
     {
         name: "Tom Cat",
-        photo: "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2Fa-%2FAAuE7mAP_QiyMYXKgxiahlcxjLROTzLgr4rUJ6hwjQ%3Ds900-mo-c-c0xffffffff-rj-k-no&f=1",
+        photo: "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimg3.wikia.nocookie.net%2F__cb20131226191142%2Ftom-cat%2Fimages%2Fc%2Fc9%2FTom_the_Cat.jpg",
         preferences: [1, 2, 5, 3, 4, 5, 1, 3, 5, 2]
     },
 
     {
         name: "Tom Brady",
-        photo: "https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F575709b54bbe6f0387840167%2F416x416.jpg%3Fbackground%3D000000%26cropX1%3D81%26cropX2%3D670%26cropY1%3D64%26cropY2%3D654&f=1",
+        photo: "https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fmfa.cachefly.net%2Fmfa%2Fimages%2Fuploads%2F2018%2F02%2FTom_Brady_2017.jpg",
         preferences: [1, 4, 3, 2, 4, 5, 4, 4, 4, 2]
     },
 ];
