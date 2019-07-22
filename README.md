@@ -21,7 +21,7 @@ The application will now be running locally on port 3000.
 ### Use
 Follow the on-screen prompts to find your new best friend!
 <img width="1179" alt="Screen Shot 2019-07-22 at 9 43 19 AM" src="https://user-images.githubusercontent.com/40612623/61650421-8afe2b00-ac68-11e9-8ea9-b287de868ea7.png">
-<img width="565" alt="Screen Shot 2019-07-22 at 10 07 10 AM" src="https://user-images.githubusercontent.com/40612623/61650424-8c2f5800-ac68-11e9-8a90-b817762cd004.png">
+<img width="549" alt="Screen Shot 2019-07-22 at 10 07 10 AM" src="https://user-images.githubusercontent.com/40612623/61650562-d6183e00-ac68-11e9-9849-eb7a86dd3df2.png">
 
 ### Technologies Used
 * HTML  
