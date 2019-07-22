@@ -22,7 +22,7 @@ The application will now be running locally on port 3000.
 Follow the on-screen prompts and press the 'submit' button.
 <img width="1179" alt="Screen Shot 2019-07-22 at 9 43 19 AM" src="https://user-images.githubusercontent.com/40612623/61650421-8afe2b00-ac68-11e9-8ea9-b287de868ea7.png">
   
-Your new friend will then be revealed!
+Your new friend will then be revealed!  
 <img width="549" alt="Screen Shot 2019-07-22 at 10 07 10 AM" src="https://user-images.githubusercontent.com/40612623/61650562-d6183e00-ac68-11e9-9849-eb7a86dd3df2.png">
 
 ### Technologies Used
