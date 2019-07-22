@@ -32,6 +32,6 @@ module.exports = function(app) {
         }
         friendsList.push(newFriend);
         res.json(match);
-        console.log(match);
+        // console.log(match);
     });
 }
