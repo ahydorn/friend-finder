@@ -13,10 +13,10 @@ module.exports = function(app) {
         var match = {
             name: "",
             photo: "",
-            difference: 10000
+            difference: 1000
         }
 
-        // Calculating totals 
+        // Calculator for result
         for (var i = 0; i < friendsList.length; i++) {
             total = 0;
 
