@@ -1,4 +1,4 @@
-# Friend Finder
+# 👥🔎 Friend Finder
 ### Description
 *Friend Finder*, built on the same principles and concepts as a traditional dating app, takes in results from a user's survey, then compares their answeres with those from toher users. The app will then display the name and picture of the user with the best overall match. 
 
