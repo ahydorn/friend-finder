@@ -5,9 +5,9 @@
 ---  
 ### Installation
 To install the application follow the instructions below:  
-`git clone https://github.com/ahydorn/friend-finder.git`  
-`cd friend-finder`  
-`npm install`  
+> git clone https://github.com/ahydorn/friend-finder.git  
+> cd friend-finder  
+> npm install  
 <img width="753" alt="Screen Shot 2019-07-22 at 9 42 05 AM" src="https://user-images.githubusercontent.com/40612623/61650416-86d20d80-ac68-11e9-967e-24c8e4a158f6.png">
 
 ---
